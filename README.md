@@ -4,11 +4,11 @@
 
 **AI & Machine Learning Student · B.Tech CSE (AI & ML) · Bangalore, India**
 
-<a href="https://www.linkedin.com/in/keerthana-k-177890332/">
+<a href="https://www.linkedin.com/in/akash-t-b1b408333/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/2411021061431k/">
+<a href="https://leetcode.com/u/AakashhT/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
 </a>
 &nbsp;
