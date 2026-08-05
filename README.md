@@ -5,85 +5,99 @@
 **AI & Machine Learning Student · B.Tech CSE (AI & ML) · Bangalore, India**
 
 <a href="https://www.linkedin.com/in/akash-t-b1b408333/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/AakashhT/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:theerthakash2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👋 About Me
 
-I'm an AI & ML student passionate about building intelligent systems that solve real-world problems. I enjoy working across the full stack of AI projects—from data collection and model development to deployment. My interests include Machine Learning, Deep Learning, Computer Vision, Large Language Models (LLMs), Intelligent Document Processing, Generative AI, and Retrieval-Augmented Generation (RAG).
+I'm an AI & Machine Learning student passionate about building intelligent systems that solve real-world problems. I enjoy developing end-to-end AI applications, from data preprocessing and model training to deployment.
 
-**Currently Exploring**
+### 🌱 Currently Exploring
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- LLM Applications
-- Generative AI
-- RAG
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 - AI Agents
+- Generative AI
 
 ---
 
-## 💼 Projects
+# 💼 Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **DocIntel** | Intelligent document processing system with OCR and structured extraction | FastAPI · OpenCV · Tesseract · Python |
-| **Customer Churn Prediction** | End-to-end ML model for predicting customer churn | Scikit-learn · Pandas · Python |
-| **Sales Forecasting Dashboard** | Interactive dashboard with forecasting models | Matplotlib · Jupyter · Python |
-| **Credit Card Fraud Detection** | Fraud detection using imbalanced classification techniques | Scikit-learn · Python |
-| **Web Scraper** | Automated structured data extraction from websites | BeautifulSoup · Python |
+| **DocIntel** | AI-powered intelligent document processing system with OCR and structured extraction | FastAPI · OpenCV · Tesseract · Python |
+| **Customer Churn Prediction** | End-to-end ML pipeline for customer churn prediction | Scikit-learn · Pandas · Python |
+| **Sales Forecasting Dashboard** | Forecasting dashboard with interactive visualizations | Matplotlib · Python |
+| **Credit Card Fraud Detection** | Fraud detection model for highly imbalanced datasets | Scikit-learn · Python |
+| **Web Scraper** | Automated web data extraction system | BeautifulSoup · Python |
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Tech Stack
 
-### Languages
-- Python
-- C++
-- Java
-- JavaScript
-- SQL
+### 🤖 AI & Machine Learning
 
-### AI / ML
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- OpenCV
-- NumPy
-- Pandas
-- FastAPI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2C9AB7?style=for-the-badge)
 
-### Web Development
-- React
-- Next.js
-- Tailwind CSS
-- HTML
-- CSS
+### ⚙️ Backend & APIs
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
-- MySQL
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 📊 Data & Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 - Google AI Professional Certificate
 - Google Data Analytics Professional Certificate
@@ -94,64 +108,20 @@ I'm an AI & ML student passionate about building intelligent systems that solve 
 
 ---
 
-## 📊 GitHub Stats
-
-> **⚠️ Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username.**
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Connect with Me
+## 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/akash-t-b1b408333/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/AakashhT/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="mailto:theerthakash2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
