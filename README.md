@@ -33,6 +33,7 @@ I'm an AI & Machine Learning student passionate about building intelligent syste
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
 - Generative AI
+- System Desgin
 
 ---
 
