@@ -136,7 +136,8 @@ I'm an AI & Machine Learning student passionate about building intelligent syste
 *"Building technology that learns, adapts, and creates meaningful impact."*
 
 **Open to AI/ML, Data Science, Software Engineering Internships, and Open Source Collaboration.**
-
+What can u do!!!
 ⭐ If you like my work, consider starring my repositories!
 
 </div>
+
