@@ -137,6 +137,8 @@ I'm an AI & Machine Learning student passionate about building intelligent syste
 
 **Open to AI/ML, Data Science, Software Engineering Internships, and Open Source Collaboration.**
 
+asdfgjk
+
 ⭐ If you like my work, consider starring my repositories!
 
 </div>
